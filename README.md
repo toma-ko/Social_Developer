@@ -82,4 +82,4 @@ Soon I'll be merging all your changes into the master branch of this project. Yo
 
 ### [Original Project](https://github.com/firstcontributions/first-contributions)
 
-##　Which do you like better, rice or bread?
+## Homework(6) - Which do you like better, rice or bread?
